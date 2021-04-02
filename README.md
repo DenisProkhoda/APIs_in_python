@@ -8,6 +8,7 @@ api_endpoint
 Each API is different, so it is very important to read the documentation for each API to know how to use it properly. The documentation for the SODA API is here: https://dev.socrata.com/consumers/getting-started.html. It is HIGHLY RECOMMENDED that you read the documentation before making any requests, then do deeper dives into specific use cases when questions require.
 
 QUESTIONS
+
 Make an API request that returns the entire Top 500 Monthly Searches dataset. Make a chart that shows the number of times "maps" was searched in a month across the entire time frame.
 
 1) Make an API request that returns the months where "fire" was searched in 2016. Which month had the most searches?
