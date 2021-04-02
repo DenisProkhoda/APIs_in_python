@@ -1,4 +1,4 @@
-# APIs_in_python
+# APIs in Python
 For this project you will use the SODA API to access data through https://data.nashville.gov/. We'll start out with something familiar, the Top 500 Monthly Searches, then pull in different datasets further on. You will make different API requests for each individual question.
 
 Each dataset has its own api endpoint. You can find the endpoint for a dataset by clicking on the API button in the top right of the dataset screen, then copying the API Endpoint:
